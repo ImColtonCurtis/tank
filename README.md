@@ -18,3 +18,9 @@ For any questions, comments, or support inquiries regarding Tank, please contact
 Get Tank Now!
 
 Get ready for an exhilarating tank battle experience with Tank by No Nothing! Download the game now and embark on an epic tank warfare adventure. Are you ready to destroy enemy tanks and dodge their bullets? Let's find out!
+
+Get The Game
+
+App Store: https://apps.apple.com/us/app/tank/id1659491485
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.tank
