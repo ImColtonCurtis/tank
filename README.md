@@ -1,6 +1,4 @@
 # tank
-Tank - Mobile Game
-
 Welcome to Tank, an exciting mobile game created by No Nothing! Get ready for intense tank battles as you destroy enemy tanks and dodge their speedy bullets in a bid to survive increasingly difficult stages.
 Game Description
 
