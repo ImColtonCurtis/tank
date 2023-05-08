@@ -4,7 +4,7 @@ Welcome to "Tank", an exciting mobile game created by No Nothing! Get ready for 
 ## Game Description
 
 Tank is an action-packed mobile game that puts you in control of a powerful tank. Your mission is to destroy enemy tanks and survive as long as possible through multiple challenging stages. The game features fast-paced gameplay, strategic maneuvering, and adrenaline-pumping tank battles that will keep you on the edge of your seat.
-## Key Features
+## Key Features 
 
     Tank battles: Engage in thrilling tank battles as you face off against enemy tanks that become increasingly difficult to defeat.
     Bullet dodging: Dodge enemy bullets as they fly towards you with lightning speed. Use your tank's agility and reflexes to avoid getting hit.
